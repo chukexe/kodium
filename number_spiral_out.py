@@ -1,6 +1,5 @@
 
 #   Decide the dimensions of the matrix
-#   Display the matrix
 #   Place current number in the center of the matrix
 #   Choose direction
 #   Update current number
